@@ -1,0 +1,319 @@
+{
+  "salt": "qc-m2-2026",
+  "module": 2,
+  "title": "Quantum Mathematics & Linear Algebra",
+  "questions": [
+    {
+      "id": "q01",
+      "kind": "choice",
+      "prompt": "SW4gRGlyYWMgKGJyYeKAk2tldCkgbm90YXRpb24sIHRoZSBzeW1ib2wgfM+I4p+pIGlzIGNhbGxlZCBhOg==",
+      "answer_hash": "0915491c5d2c7d3ba756b86c25c92f4266e8a453e0658527546e8234ea04e471",
+      "options": [
+        [
+          "QSBicmE=",
+          "a"
+        ],
+        [
+          "QSBrZXQ=",
+          "b"
+        ],
+        [
+          "QSBzY2FsYXI=",
+          "c"
+        ],
+        [
+          "QW4gb3BlcmF0b3I=",
+          "d"
+        ]
+      ]
+    },
+    {
+      "id": "q02",
+      "kind": "text",
+      "prompt": "SW4gRGlyYWMgbm90YXRpb24sIHRoZSByb3ctdmVjdG9yIGR1YWwg4p+oz4h8IGlzIGNhbGxlZCBhIF9fXyAodGhyZWUgbGV0dGVycyku",
+      "answer_hash": "a7ee5c41873fda57ba256cee491680a34359cd55ed6091bdbd47667fbb80c7a6"
+    },
+    {
+      "id": "q03",
+      "kind": "choice",
+      "prompt": "QSB2YWxpZCBzaW5nbGUtcXViaXQgc3RhdGUgzrF8MOKfqSArIM6yfDHin6kgbXVzdCBzYXRpc2Z5IHdoaWNoIG5vcm1hbGl6YXRpb24gY29uZGl0aW9uPw==",
+      "answer_hash": "0915491c5d2c7d3ba756b86c25c92f4266e8a453e0658527546e8234ea04e471",
+      "options": [
+        [
+          "zrEgKyDOsiA9IDE=",
+          "a"
+        ],
+        [
+          "fM6xfMKyICsgfM6yfMKyID0gMQ==",
+          "b"
+        ],
+        [
+          "zrHCt86yID0gMA==",
+          "c"
+        ],
+        [
+          "fM6xfCArIHzOsnwgPSAx",
+          "d"
+        ]
+      ]
+    },
+    {
+      "id": "q04",
+      "kind": "choice",
+      "prompt": "V2h5IG11c3QgcXVhbnR1bSBnYXRlcyBiZSByZXByZXNlbnRlZCBieSB1bml0YXJ5IG1hdHJpY2VzPw==",
+      "answer_hash": "0915491c5d2c7d3ba756b86c25c92f4266e8a453e0658527546e8234ea04e471",
+      "options": [
+        [
+          "VGhleSBydW4gZmFzdGVy",
+          "a"
+        ],
+        [
+          "VGhleSBwcmVzZXJ2ZSB0b3RhbCBwcm9iYWJpbGl0eSBhbmQgYXJlIHJldmVyc2libGU=",
+          "b"
+        ],
+        [
+          "VGhleSB1c2UgbGVzcyBtZW1vcnk=",
+          "c"
+        ],
+        [
+          "SUJNIGhhcmR3YXJlIHJlcXVpcmVzIGl0",
+          "d"
+        ]
+      ]
+    },
+    {
+      "id": "q05",
+      "kind": "text",
+      "prompt": "QSBzcXVhcmUgbWF0cml4IFUgaXMgdW5pdGFyeSB3aGVuIFXigKBVIGVxdWFscyB0aGUgX19fIG1hdHJpeC4=",
+      "answer_hash": "2358d8e762988282d4de92a65fec3f77716fb19e6f510d3e8844aec9eb329137"
+    },
+    {
+      "id": "q06",
+      "kind": "choice",
+      "prompt": "Rm9yIHRoZSBzdGF0ZSDOsXww4p+pICsgzrJ8MeKfqSwgdGhlIHByb2JhYmlsaXR5IG9mIG1lYXN1cmluZyBvdXRjb21lIDAgaXM6",
+      "answer_hash": "0915491c5d2c7d3ba756b86c25c92f4266e8a453e0658527546e8234ea04e471",
+      "options": [
+        [
+          "fM6xfA==",
+          "a"
+        ],
+        [
+          "fM6xfMKy",
+          "b"
+        ],
+        [
+          "zrE=",
+          "c"
+        ],
+        [
+          "fM6yfMKy",
+          "d"
+        ]
+      ]
+    },
+    {
+      "id": "q07",
+      "kind": "choice",
+      "prompt": "VGhlIHJ1bGUgdGhhdCBhIG1lYXN1cmVtZW50IG91dGNvbWUncyBwcm9iYWJpbGl0eSBlcXVhbHMgdGhlIHNxdWFyZWQgbWFnbml0dWRlIG9mIGl0cyBhbXBsaXR1ZGUgaXMgdGhlOg==",
+      "answer_hash": "0915491c5d2c7d3ba756b86c25c92f4266e8a453e0658527546e8234ea04e471",
+      "options": [
+        [
+          "SGVpc2VuYmVyZyB1bmNlcnRhaW50eSBwcmluY2lwbGU=",
+          "a"
+        ],
+        [
+          "Qm9ybiBydWxl",
+          "b"
+        ],
+        [
+          "QmxvY2ggdGhlb3JlbQ==",
+          "c"
+        ],
+        [
+          "UGF1bGkgZXhjbHVzaW9uIHByaW5jaXBsZQ==",
+          "d"
+        ]
+      ]
+    },
+    {
+      "id": "q08",
+      "kind": "choice",
+      "prompt": "VGhlIEJsb2NoIHNwaGVyZSBpcyBhIGdlb21ldHJpYyByZXByZXNlbnRhdGlvbiBvZjo=",
+      "answer_hash": "0915491c5d2c7d3ba756b86c25c92f4266e8a453e0658527546e8234ea04e471",
+      "options": [
+        [
+          "QSB0d28tcXViaXQgc3RhdGU=",
+          "a"
+        ],
+        [
+          "QSBzaW5nbGUtcXViaXQgcHVyZSBzdGF0ZQ==",
+          "b"
+        ],
+        [
+          "QSBjbGFzc2ljYWwgYml0",
+          "c"
+        ],
+        [
+          "QSBsb2dpYyBnYXRl",
+          "d"
+        ]
+      ]
+    },
+    {
+      "id": "q09",
+      "kind": "choice",
+      "prompt": "T24gdGhlIEJsb2NoIHNwaGVyZSwgdGhlIHN0YXRlIHww4p+pIGlzIGNvbnZlbnRpb25hbGx5IHBsYWNlZCBhdCB0aGU6",
+      "answer_hash": "104d47c350be024f9842bd1a748d526868103c9df475ffd29ef74cac58e4e256",
+      "options": [
+        [
+          "Tm9ydGggcG9sZQ==",
+          "a"
+        ],
+        [
+          "U291dGggcG9sZQ==",
+          "b"
+        ],
+        [
+          "RXF1YXRvcg==",
+          "c"
+        ],
+        [
+          "Q2VudGVy",
+          "d"
+        ]
+      ]
+    },
+    {
+      "id": "q10",
+      "kind": "choice",
+      "prompt": "V2hpY2ggc2luZ2xlLXF1Yml0IGdhdGUgbWFwcyB8MOKfqSB0byB0aGUgZXF1YWwgc3VwZXJwb3NpdGlvbiAofDDin6kgKyB8MeKfqSkv4oiaMj8=",
+      "answer_hash": "927b0aa4605bca4dbd23633d0744e8b10175439f9fe1407196f5876605fbefb9",
+      "options": [
+        [
+          "WCAoTk9UKSBnYXRl",
+          "a"
+        ],
+        [
+          "WiBnYXRl",
+          "b"
+        ],
+        [
+          "SGFkYW1hcmQgKEgpIGdhdGU=",
+          "c"
+        ],
+        [
+          "UyBnYXRl",
+          "d"
+        ]
+      ]
+    },
+    {
+      "id": "q11",
+      "kind": "choice",
+      "prompt": "V2hlbiB5b3UgbWVhc3VyZSBhIHF1Yml0IHRoYXQgaXMgaW4gc3VwZXJwb3NpdGlvbiBpbiB0aGUgY29tcHV0YXRpb25hbCBiYXNpcywgdGhlIHN0YXRlOg==",
+      "answer_hash": "0915491c5d2c7d3ba756b86c25c92f4266e8a453e0658527546e8234ea04e471",
+      "options": [
+        [
+          "U3RheXMgaW4gc3VwZXJwb3NpdGlvbg==",
+          "a"
+        ],
+        [
+          "Q29sbGFwc2VzIHRvIGEgZGVmaW5pdGUgYmFzaXMgc3RhdGUgKDAgb3IgMSk=",
+          "b"
+        ],
+        [
+          "SXMgZGVzdHJveWVkIHBlcm1hbmVudGx5IGFuZCBjYW5ub3QgYmUgcmV1c2Vk",
+          "c"
+        ],
+        [
+          "QXV0b21hdGljYWxseSBiZWNvbWVzIGVudGFuZ2xlZA==",
+          "d"
+        ]
+      ]
+    },
+    {
+      "id": "q12",
+      "kind": "text",
+      "prompt": "SG93IG1hbnkgY29tcGxleCBhbXBsaXR1ZGVzIGFyZSBuZWVkZWQgdG8gZGVzY3JpYmUgdGhlIHB1cmUgc3RhdGUgb2YgYSBzaW5nbGUgcXViaXQ/IChhIG51bWJlcik=",
+      "answer_hash": "bb4f20527d53819adb7fc31fee1c710d9196a5590cceffd915a742d8a9d8546c"
+    },
+    {
+      "id": "q13",
+      "kind": "choice",
+      "prompt": "U3VwZXJwb3NpdGlvbiBvZiBhIHF1Yml0IG1lYW5zIHRoZSBzdGF0ZSBpczo=",
+      "answer_hash": "0915491c5d2c7d3ba756b86c25c92f4266e8a453e0658527546e8234ea04e471",
+      "options": [
+        [
+          "U2VjcmV0bHkgMCBvciAxLCB3ZSBqdXN0IGRvbid0IGtub3cgd2hpY2g=",
+          "a"
+        ],
+        [
+          "QSBsaW5lYXIgY29tYmluYXRpb24gb2YgdGhlIHww4p+pIGFuZCB8MeKfqSBiYXNpcyBzdGF0ZXM=",
+          "b"
+        ],
+        [
+          "UGh5c2ljYWxseSB0d28gcXViaXRzIGF0IG9uY2U=",
+          "c"
+        ],
+        [
+          "QW4gZXJyb3Igc3RhdGU=",
+          "d"
+        ]
+      ]
+    },
+    {
+      "id": "q14",
+      "kind": "choice",
+      "prompt": "V2hpY2ggSUJNIHRvb2wgbGV0cyB5b3UgYnVpbGQgYW5kIHRlc3QgY2lyY3VpdHMgdmlzdWFsbHkgYW5kIGluc3BlY3Qgc3RhdGVzICh1c2VkIGluIHRoaXMgbW9kdWxlJ3MgZGVtb3MpPw==",
+      "answer_hash": "104d47c350be024f9842bd1a748d526868103c9df475ffd29ef74cac58e4e256",
+      "options": [
+        [
+          "SUJNIFF1YW50dW0gQ29tcG9zZXI=",
+          "a"
+        ],
+        [
+          "SUJNIFF1YW50dW0gUnVudGltZQ==",
+          "b"
+        ],
+        [
+          "VGhlIHRyYW5zcGlsZXI=",
+          "c"
+        ],
+        [
+          "UWlza2l0IEFlcg==",
+          "d"
+        ]
+      ]
+    },
+    {
+      "id": "q15",
+      "kind": "choice",
+      "prompt": "QSBnbG9iYWwgcGhhc2UgZmFjdG9yIGVee2nOuH0gbXVsdGlwbHlpbmcgYW4gZW50aXJlIHN0YXRlIGlzOg==",
+      "answer_hash": "0915491c5d2c7d3ba756b86c25c92f4266e8a453e0658527546e8234ea04e471",
+      "options": [
+        [
+          "UGh5c2ljYWxseSBvYnNlcnZhYmxl",
+          "a"
+        ],
+        [
+          "Tm90IG9ic2VydmFibGUg4oCUIGl0IGRvZXMgbm90IGFmZmVjdCBtZWFzdXJlbWVudCBwcm9iYWJpbGl0aWVz",
+          "b"
+        ],
+        [
+          "QSBjaGFuZ2UgdG8gdGhlIG1lYXN1cmVtZW50IG91dGNvbWVz",
+          "c"
+        ],
+        [
+          "Rm9yYmlkZGVuIGJ5IHF1YW50dW0gbWVjaGFuaWNz",
+          "d"
+        ]
+      ]
+    },
+    {
+      "id": "q16",
+      "kind": "text",
+      "prompt": "Rm9yIGEgbm9ybWFsaXplZCBzdGF0ZSB8z4jin6ksIHRoZSBpbm5lciBwcm9kdWN0IOKfqM+IfM+I4p+pIGVxdWFscyB3aGF0IG51bWJlcj8=",
+      "answer_hash": "5bf73fc78a1a5b277e4357f7b7fb84ee5a8c12a818bfa6179aeabcb5c409f9bc"
+    }
+  ]
+}
