@@ -1,2 +1,11 @@
+# Jupyter checkpoint folders and empty-dir placeholders — keep out of the GitHub upload
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.gitkeep
+**/.gitkeep
+
+# Local per-student quiz progress (written by the quiz notebooks)
+.quiz_progress.json
+
 # Instructor-only quiz sources (plaintext answers) — never ship to students
 _authoring/
