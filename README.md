@@ -1,4 +1,4 @@
-# Quantum Computing with Qiskit -- Eight-Week Course
+# Quantum Computing with Qiskit: Eight-Week Course
 
 An eight-week introduction to quantum computing, built on IBM Quantum Learning material and
 Qiskit. Participants finish the course with a working environment, a grounding in the underlying
@@ -19,7 +19,7 @@ rhythm, the setup you need before Module 1, and how work is submitted.
 | [6](module6/Schedule.ipynb) | Quantum Error Correction and Fault-Tolerant Quantum |
 | [7](module7/Schedule.ipynb) | Quantum in Practice and Scaling to Utility |
 | [8](module8/Schedule.ipynb) | Current Research and Future Planning |
-| [Bonus](bonus_material/Schedule.ipynb) | Other machine types, future algorithms, qLDPC codes *(optional)* |
+| [Bonus](optional_material/Schedule.ipynb) | Other machine types, future algorithms, qLDPC codes *(optional)* |
 
 ## Repository Layout
 
@@ -39,7 +39,7 @@ Each `moduleN/` folder follows the same structure:
 ## Prerequisites
 
 - Comfort with Python. You do not need prior quantum experience.
-- Linear algebra helps but is not assumed -- Module 2 builds what the course needs.
+- Linear algebra helps but is not assumed, Module 2 builds what the course needs.
 - An IBMid (free) and a working Qiskit install. Both are set up in Module 1.
 
 ## Expected Effort
