@@ -21,6 +21,19 @@ rhythm, the setup you need before Module 1, and how work is submitted.
 | [8](module8/Schedule.ipynb) | Current Research and Future Planning |
 | [Bonus](optional_material/Schedule.ipynb) | Other machine types, future algorithms, qLDPC codes *(optional)* |
 
+## IBM Badge Practice Exams
+
+Several modules line up with IBM Quantum Learning badges. [`badge_exams/`](badge_exams/README.md)
+holds an optional, ungraded practice exam for each one: same format as the weekly quizzes, but
+longer and pooled across every week the badge covers. The badge itself is earned on IBM's site.
+
+| Badge | Covered by |
+|-------|------------|
+| [Basics of Quantum Information](badge_exams/Basics_of_Quantum_Information_Practice_Exam.ipynb) | Weeks 2-4 |
+| [Fundamentals of Quantum Algorithms](badge_exams/Fundamentals_of_Quantum_Algorithms_Practice_Exam.ipynb) | Week 5 |
+| Foundations of Quantum Error Correction | Week 6 *(not released yet)* |
+| [Quantum Business Foundations](badge_exams/Quantum_Business_Foundations_Practice_Exam.ipynb) | Weeks 1, 5, 8 |
+
 ## Repository Layout
 
 Each `moduleN/` folder follows the same structure:
@@ -35,6 +48,12 @@ Each `moduleN/` folder follows the same structure:
 | `moduleN/answers/` | Answer keys. |
 | `moduleN/resources/` | Slide decks, PDFs, reference material. |
 | `moduleN/images/` | Figures used by the module's notebooks. |
+
+Plus one shared folder:
+
+| Path | Contents |
+|------|----------|
+| `badge_exams/` | Optional practice exams for the IBM badges, and their question banks. |
 
 ## Prerequisites
 
